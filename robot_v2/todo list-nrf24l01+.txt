@@ -1,0 +1,6 @@
+TO DO LIST FOR ARDUINO-NXT-PC ROBOT NRF24L01+
+-spremeni prikazovanje/koord sistem na pc
+-zmanšaj delaye
+-nxt program
+-ir sensor
+-
